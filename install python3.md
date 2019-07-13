@@ -5,7 +5,7 @@ Scientific Linux系统自带的是python2系统，所以，想用python3需要�
 安装流程     
 ---
 1）下载安装包：**wget https://www.python.org/ftp/python/3.7.4/Python-3.7.4.tgz**     
-2）解压安装包：**tar zxvf Python-3.6.3.tgz**    
+2）解压安装包：**tar zxvf Python-3.7.4.tgz**    
 3）转到该目录下：**cd Python-3.7.4**         
 4）对安装进行配置，并指定安装路径：**．/configure --prefix=/usr/local/python3.7.4**      
 5）编译：**make**         
