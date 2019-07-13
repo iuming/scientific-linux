@@ -1,6 +1,7 @@
  wirless-divers-scientific-linux-
 ====
-The record of installing wirless divers of scientific linux!
+The record of installing wirless divers of scientific linux!   
+    
 一、安装scientific linux
 ---
 先从装双系统scientific linux解释起吧！  
